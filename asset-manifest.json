@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88679d93.chunk.css",
+    "main.js": "/static/js/main.ecd9ee17.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.bbbe84dd.js",
+    "static/css/2.48790433.chunk.css": "/static/css/2.48790433.chunk.css",
+    "static/js/2.2ca6bdab.chunk.js": "/static/js/2.2ca6bdab.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.f2f91a175082cadc465aafd2fd502bb9.js": "/precache-manifest.f2f91a175082cadc465aafd2fd502bb9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.2ca6bdab.chunk.js.LICENSE.txt": "/static/js/2.2ca6bdab.chunk.js.LICENSE.txt",
+    "static/media/BlackHole.svg": "/static/media/BlackHole.948222f7.svg",
+    "static/media/CircleImageFrame.svg": "/static/media/CircleImageFrame.6365ab7f.svg",
+    "static/media/GalaxyBackground.png": "/static/media/GalaxyBackground.43db8f82.png",
+    "static/media/GalaxyBackground.svg": "/static/media/GalaxyBackground.da50cbab.svg",
+    "static/media/IC_ArrowDown.svg": "/static/media/IC_ArrowDown.20e1fd4a.svg",
+    "static/media/IC_DownloadReport.svg": "/static/media/IC_DownloadReport.fab646a0.svg",
+    "static/media/IC_Github.svg": "/static/media/IC_Github.1f85df14.svg",
+    "static/media/IC_LinkedIn.svg": "/static/media/IC_LinkedIn.85fea120.svg",
+    "static/media/IC_Resume.svg": "/static/media/IC_Resume.36b89b41.svg",
+    "static/media/IC_Rocket.svg": "/static/media/IC_Rocket.49e2f67f.svg",
+    "static/media/IC_Star.svg": "/static/media/IC_Star.404e8270.svg",
+    "static/media/IC_Star_Small.svg": "/static/media/IC_Star_Small.24a34a99.svg",
+    "static/media/IC_Ufo.svg": "/static/media/IC_Ufo.f44ec745.svg",
+    "static/media/IC_Ufo_Ray.png": "/static/media/IC_Ufo_Ray.91f90cf2.png",
+    "static/media/index.scss": "/static/media/ProjectDetailBGMobile.1f00387c.svg",
+    "static/media/Meteor.svg": "/static/media/Meteor.c26c7872.svg",
+    "static/media/PurpleMonster.svg": "/static/media/PurpleMonster.8bfe0b6b.svg",
+    "static/media/RedMonster.svg": "/static/media/RedMonster.c066a571.svg",
+    "static/media/SkillStar_Empty.svg": "/static/media/SkillStar_Empty.6a4243e3.svg",
+    "static/media/SkillStar_Filled.svg": "/static/media/SkillStar_Filled.44fd7d1a.svg",
+    "static/media/circle.svg": "/static/media/circle.0d303546.svg",
+    "static/media/lineLeft.svg": "/static/media/lineLeft.a82c420c.svg",
+    "static/media/lineRight.svg": "/static/media/lineRight.675452c2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbbe84dd.js",
+    "static/css/2.48790433.chunk.css",
+    "static/js/2.2ca6bdab.chunk.js",
+    "static/css/main.88679d93.chunk.css",
+    "static/js/main.ecd9ee17.chunk.js"
+  ]
+}
