@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.88679d93.chunk.css",
-    "main.js": "/static/js/main.ecd9ee17.chunk.js",
+    "main.js": "/static/js/main.eed8b865.chunk.js",
     "runtime-main.js": "/static/js/runtime-main.bbbe84dd.js",
     "static/css/2.48790433.chunk.css": "/static/css/2.48790433.chunk.css",
     "static/js/2.2ca6bdab.chunk.js": "/static/js/2.2ca6bdab.chunk.js",
     "index.html": "/index.html",
-    "precache-manifest.f2f91a175082cadc465aafd2fd502bb9.js": "/precache-manifest.f2f91a175082cadc465aafd2fd502bb9.js",
+    "precache-manifest.ca124a64b865009f3a2c73e21ac081bc.js": "/precache-manifest.ca124a64b865009f3a2c73e21ac081bc.js",
     "service-worker.js": "/service-worker.js",
     "static/js/2.2ca6bdab.chunk.js.LICENSE.txt": "/static/js/2.2ca6bdab.chunk.js.LICENSE.txt",
     "static/media/BlackHole.svg": "/static/media/BlackHole.948222f7.svg",
@@ -38,6 +38,6 @@
     "static/css/2.48790433.chunk.css",
     "static/js/2.2ca6bdab.chunk.js",
     "static/css/main.88679d93.chunk.css",
-    "static/js/main.ecd9ee17.chunk.js"
+    "static/js/main.eed8b865.chunk.js"
   ]
 }
